@@ -1,4 +1,4 @@
-# Linktree
+# Linktree Clone
 Link of the Project: https://linktreecloneproject.vercel.app/
 
 This clone is made using HTML and Tailwind CSS.
